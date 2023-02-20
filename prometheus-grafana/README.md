@@ -38,7 +38,7 @@ We need to modify [Prometheus Config file](https://github.com/Laboratorios-Gigab
 
 To start Prometheus and Grafana
 ```shell
-doker-compose up
+docker-compose up
 ```
 
 ### Step 4
